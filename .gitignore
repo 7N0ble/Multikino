@@ -1,0 +1,5 @@
+/cmake-build-debug/
+# Database files for Multikino
+DB/films.db
+DB/halls.db
+DB/screenings.db
