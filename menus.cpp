@@ -4,7 +4,7 @@
 #include "menus.h"
 #include "utils.h"
 #include "storage.h"
-#include "qr.h"
+
 
 
 static void generateSectorsForHall(Hall *hall) {

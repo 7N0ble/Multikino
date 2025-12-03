@@ -9,5 +9,4 @@ add_executable(Multikino_projekt
         utils.cpp
         storage.cpp
         menus.cpp
-        qr.cpp
-        qrcodegen.c)
+)
